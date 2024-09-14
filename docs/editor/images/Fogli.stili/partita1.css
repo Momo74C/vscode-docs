@@ -1,0 +1,42 @@
+body
+{
+    background-color:cyan;
+}
+#Partita
+{
+    color:blueviolet ;
+    font-size: 80px;
+    background-color:black;
+    padding:  20px;
+    margin: 10px;
+    width: 300px;
+    height: 10vh;
+}
+.derby-di-milano
+{
+    color: red;
+    font-style: oblique;
+    font-size: x-large;
+}
+#Chi-ha-vinto
+{
+    color:blue;
+    font-weight: bold;
+    font-size:xx-large
+}
+#juve
+{
+    color:mediumvioletred;
+    font-style: unset;
+    font-size: 60px;
+}
+.link
+{
+    font-size: 20px;
+    font-style: oblique;
+    color: red;
+    background-color:chartreuse;
+    width: 10px;
+    height: 10px;
+}
+
